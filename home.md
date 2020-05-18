@@ -18,7 +18,7 @@ I don't know everythign I don't know, so I expect this to change often.
   * Fluency with vanilla JS to equip a site with basic interactivity, build simple user experiences, and actually understand what I'm cloning/forking/copying and pasting when I'm not writing everything from scratch
   * Knowledge of the language that's comprehensive enough that I know what to Google and I understand what in the hell I find when I do
   * Thorough understanding of APIs
-  * High competency with libraries for UI, data vizualization, and creative coding
+  * High competency with libraries for UI, data vizualization, and creative coding (Popmotion, D3, Paper, P5)
   * Wriute idiomatic, well-structured code...don't bullshit stuff together with programming practices that are hard to debug/reuse/improve
   * Competency with one of the big UI libraries: probably React, though kinda also interested in Vue.
   * Be able to use Node and popular NPM projects like Gulp and Handlebars to run a server, build and deploy projects, template websites, and talk to other servers and services
