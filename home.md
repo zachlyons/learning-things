@@ -13,7 +13,7 @@ I've been interested in code since thumbing through an outdated book on web desi
 * **High-Level Architechture** (what a server is, client-side vs. server-side, APIs, CDNs, basic factors of performance)
 
 ## Goals
-I don't know everythign I don't know, so I expect this to change often.
+I don't know everything I don't know, so I expect this to change often.
 * **Master JavaScript, learn libraries**
   * Fluency with vanilla JS to equip a site with basic interactivity, build simple user experiences, and actually understand what I'm cloning/forking/copying and pasting when I'm not writing everything from scratch
   * Knowledge of the language that's comprehensive enough that I know what to Google and I understand what in the hell I find when I do
