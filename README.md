@@ -42,3 +42,5 @@ I don't know everything I don't know, so I expect this to change often.
   * Learn how to use Git and GitHub well enough that I don't look like a total fool
   * At some point, give back by answering questions on Stack Overflow; help people who are now where I was five years ago with all this stuff
   * Possibly find some open source projects to which I can contribute
+  
+ ### Check out the [Wiki](https://github.com/zachlyons/learning-things/wiki) to view my progress
