@@ -4,6 +4,8 @@ This humble little repo is for documenting the resources and path I'm meandering
 ## Background
 I've been interested in code since thumbing through an outdated book on web design at my public library in elementary school. For the last ten years, I've been able to wing it through basic HTML and CSS, later graduating to dabbling in jQuery and Bootstrap to get content work done for my day job and for a few freelance clients. I know what `ints` and `Strings` and `functions` are, I feel fairly comfortable in Unix/Linux command line, I can make edits to existing pages and scripts without too much trouble, but I want to get into more from-the-ground up stuff. Building websites. Machine learning. Generative art. Weird OS scripts for when I'm lazy.
 
+After a lifetime of being that geek kid who's kinda decent at lots of things, but doesn't feel like's great at any one thing, time to get moving.
+
 ## What I Already Know
 * **HTML Basics** (semantic tags, responsive images, linking to scripts and stylesheets, relative vs. absolute linking)
 * **CSS Basics** (selectors, setting dimensions and colors, pseudo-classes, basic media queries)
