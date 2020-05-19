@@ -6,7 +6,7 @@ I've been interested in code since thumbing through an outdated book on web desi
 
 After a lifetime of being that geek kid who's kinda decent at lots of things, but doesn't feel like's great at any one thing, time to get moving.
 
-## What I Already Know
+## What I Already Know (as of May 2020)
 * **HTML Basics** (semantic tags, responsive images, linking to scripts and stylesheets, relative vs. absolute linking)
 * **CSS Basics** (selectors, setting dimensions and colors, pseudo-classes, basic media queries)
 * **Programming Basics** (the usual data types/variables, basic type coercion, loops, conditionals)
@@ -21,7 +21,7 @@ I don't know everything I don't know, so I expect this to change often.
   * Knowledge of the language that's comprehensive enough that I know what to Google and I understand what in the hell I find when I do
   * Thorough understanding of APIs
   * High competency with libraries for UI, data vizualization, and creative coding (Popmotion, D3, Paper, P5)
-  * Wriute idiomatic, well-structured code...don't bullshit stuff together with programming practices that are hard to debug/reuse/improve
+  * Write idiomatic, well-structured code...don't bullshit stuff together with programming practices that are hard to debug/reuse/improve
   * Competency with one of the big UI libraries: probably React, though kinda also interested in Vue.
   * Be able to use Node and popular NPM projects like Gulp and Handlebars to run a server, build and deploy projects, template websites, and talk to other servers and services
 * **Master CSS**
